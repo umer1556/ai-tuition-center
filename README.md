@@ -24,9 +24,9 @@ See `requirements.txt`
 [Try the app on Hugging Face](https://huggingface.co/spaces/Umer1556/tution.AI)
 
 ## 📸 Screenshots
-![Home UI](assets/<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd831604-eff8-4f51-a955-bab0d45cf2c3" />
+![Home UI](assets/<img width="1920" height="1080" alt="home-ui png" src="https://github.com/user-attachments/assets/78bf0108-92e5-4c44-b1e9-6687f00e64e4" />
 )
-![Chat Example](assets/<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5093e8c-ea37-40f8-af5c-0a4925167e4e" />
+![Chat Example](assets/<img width="1920" height="1080" alt="chat-example png" src="https://github.com/user-attachments/assets/a5093e8c-ea37-40f8-af5c-0a4925167e4e" />
 )
 
 ## 👤 Author
