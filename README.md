@@ -1,6 +1,6 @@
 # 🎓 AI Tuition Centre
 
-AI-powered tuition assistant built with **Gradio + Groq** for school, college, and university learners.
+AI-powered tuition assistant built with Gradio + Groq for school, college, and university learners.
 
 ## ✨ Features
 - Multi-level subject selection (School / College / University)
@@ -8,7 +8,6 @@ AI-powered tuition assistant built with **Gradio + Groq** for school, college, a
 - File support (`.pdf`, `.txt`) for context-based help
 - Image support for visual questions
 - Chat export to PDF
-- Clean chat UI with browser-based dark/light mode support
 
 ## 🛠️ Tech Stack
 - Python
@@ -19,5 +18,16 @@ AI-powered tuition assistant built with **Gradio + Groq** for school, college, a
 - python-dotenv
 
 ## 📦 Requirements
-```bash
-pip install -r requirements.txt
+See `requirements.txt`
+
+## 🌐 Live Demo
+[Try the app on Hugging Face](https://huggingface.co/spaces/Umer1556/tution.AI)
+
+## 📸 Screenshots
+![Home UI](assets/<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd831604-eff8-4f51-a955-bab0d45cf2c3" />
+)
+![Chat Example](assets/<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5093e8c-ea37-40f8-af5c-0a4925167e4e" />
+)
+
+## 👤 Author
+umer1556
